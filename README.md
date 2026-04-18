@@ -1,1 +1,0 @@
-# sigma-web-developer-series
